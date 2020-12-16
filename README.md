@@ -11,4 +11,4 @@ And it should output the following:
 ```
 @Test + " has bonked " + @user +"."
 ```
-![](images/bonk.jpg)
+![](images/Bonked.png)
