@@ -13,5 +13,8 @@ And it should output the following:
 ```
 ![](image/bonk.jpg)
 
-EDIT @ 5:07 AM:
+---
+
+# EDIT @ 5:07 AM:
 It is a success!
+![](image/success.png)
