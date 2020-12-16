@@ -10,6 +10,5 @@ And it should output the following:
 
 ```
 @Test + " has bonked " + @user +"."
-
-![bonk](https://i.kym-cdn.com/photos/images/original/001/842/713/b73.jpg)
 ```
+![](images/bonk.jpg)
