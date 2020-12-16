@@ -26,5 +26,4 @@ async def bonk(ctx, user1: discord.Member):
     e.set_image(url="attachment://bonk.jpg")
     await ctx.send(file = image, embed = e )
 
-
 client.run(token)
