@@ -1,12 +1,12 @@
 # Bonk
-This bot will bonk users with the following syntax:
+Users will enter the following syntax:
 
 ```
 Test:
 !bonk @user
 ```
 
-And it should output the following:
+And the bot should send back with the following:
 
 ```
 @Test + " has bonked " + @user +"."
